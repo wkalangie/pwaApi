@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Giraffe","category":"Red"},
+{"id":2,"name":"Possum, western pygmy","category":"Puce"},
+{"id":3,"name":"Flamingo, roseat","category":"Maroon"},
+{"id":4,"name":"Monkey, vervet","category":"Blue"},
+{"id":5,"name":"Crane, brolga","category":"Blue"},
+{"id":6,"name":"Ibis, glossy","category":"Aquamarine"},
+{"id":7,"name":"Sloth, hoffman's","category":"Fuscia"},
+{"id":8,"name":"Tortoise, galapagos","category":"Crimson"},
+{"id":9,"name":"Kangaroo, red","category":"Pink"},
+{"id":10,"name":"Blue crane","category":"Puce"},
+{"id":11,"name":"Komodo dragon","category":"Fuscia"},
+{"id":12,"name":"Blackbird, red-winged","category":"Red"},
+{"id":13,"name":"Purple moorhen","category":"Pink"},
+{"id":14,"name":"Japanese macaque","category":"Yellow"},
+{"id":15,"name":"Red-winged hawk (unidentified)","category":"Yellow"},
+{"id":16,"name":"Wild water buffalo","category":"Fuscia"},
+{"id":17,"name":"Sandgrouse, yellow-throated","category":"Blue"},
+{"id":18,"name":"Fox, arctic","category":"Purple"},
+{"id":19,"name":"Red-billed tropic bird","category":"Green"},
+{"id":20,"name":"North American red fox","category":"Red"}]
+}
